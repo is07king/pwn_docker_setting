@@ -4,5 +4,4 @@
 
 ```
 ./gdb_setting.sh
-
 ```
