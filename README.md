@@ -6,7 +6,9 @@
 
 
 ## GDB
-*install the following lists of gdb at once*
+### *install the following lists of gdb at once*
+`install directory : /tools`
+
 
 - gdb gef
 - gdb peda
