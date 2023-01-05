@@ -1,4 +1,16 @@
 # USEFUL TOOLS!!
 
 
-- gdb
+- [GDB](#gdb)
+
+
+
+## GDB
+*install the following lists of gdb at once*
+
+- gdb gef
+- gdb peda
+- gdb pwndbg
+
+
+
