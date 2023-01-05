@@ -1,2 +1,4 @@
-# tools
-manual of useful tools
+# USEFUL TOOLS!!
+
+
+- gdb
