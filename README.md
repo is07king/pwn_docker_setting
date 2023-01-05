@@ -1,13 +1,12 @@
 # USEFUL TOOLS!!
 
+### *install the following lists at once*
 
 - [GDB](#gdb)
 
 
 
 ## GDB
-### *install the following lists of gdb at once*
-`install directory : /tools`
 
 
 - gdb gef
