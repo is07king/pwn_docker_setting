@@ -11,8 +11,9 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
-cd installer_path
+cd $installer_path
 
 cp .p10k.zsh ~/
+mkdir ~/.config/nvim/
 cp .vimrc ~/.config/nvim/init.vim
 cp .zshrc ~/
