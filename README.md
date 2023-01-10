@@ -3,6 +3,7 @@
 ### *install the following lists at once*
 
 - [GDB](#gdb)
+- [Ubuntu](#ubuntu)
 
 
 
