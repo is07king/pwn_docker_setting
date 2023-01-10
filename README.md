@@ -13,5 +13,8 @@
 - gdb peda
 - gdb pwndbg
 
+## Ubuntu
 
+- zsh
+- nvim
 
