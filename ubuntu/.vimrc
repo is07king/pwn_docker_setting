@@ -31,7 +31,6 @@ Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 
 " coc plugin
-Plug 'neoclide/coc.nvim', {'branch' : 'release'}
 Plug 'SirVer/ultisnips'
 
 
