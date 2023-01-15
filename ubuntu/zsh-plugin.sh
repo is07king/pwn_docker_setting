@@ -15,7 +15,7 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 cd $installer_path
 
 cp .p10k.zsh ~/
-mkdir ~/.config/nvim/
+mkdir -p ~/.config/nvim/
 cp .vimrc ~/.config/nvim/init.vim
 cp .vimrc ~/.vimrc
 cp .zshrc ~/
