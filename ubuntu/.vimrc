@@ -27,12 +27,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree' 
 Plug 'dracula/vim', { 'as': 'dracula' }
 
-
-Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
-
 " coc plugin
 Plug 'SirVer/ultisnips'
-
 
 Plug 'haya14busa/vim-asterisk'
 
