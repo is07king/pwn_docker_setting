@@ -50,7 +50,7 @@ if [ -d /tools/gef ] || [ -h /tools/gef ]; then
 	echo "[*] Pass Download Gef"
 else
 	echo "[+] Download Gef"
-	git clone https://github.com/hugsy/gef.git /tools/gef
+	wget -O /tools/gef.py -q https://gef.blah.cat/py
 fi
 
 cd $installer_path

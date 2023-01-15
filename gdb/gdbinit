@@ -13,7 +13,7 @@ Initializes PwnDBG
 end
 
 define init-gef
-source /tools/gef/gef.py
+source /tools/gef.py
 end
 document init-gef
 Initializes GEF (GDB Enhanced Features)
