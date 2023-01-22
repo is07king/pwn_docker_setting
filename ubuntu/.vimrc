@@ -28,8 +28,6 @@ Plug 'preservim/nerdtree'
 Plug 'dracula/vim', { 'as': 'dracula' }
 
 " coc plugin
-Plug 'SirVer/ultisnips'
-
 Plug 'haya14busa/vim-asterisk'
 
 call plug#end()
