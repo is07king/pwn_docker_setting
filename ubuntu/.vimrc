@@ -25,7 +25,6 @@ Plug 'blueyed/vim-diminactive' "화면 분할 시 background color 변경
 Plug 'koron/nyancat-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree' 
-Plug 'dracula/vim', { 'as': 'dracula' }
 
 " coc plugin
 Plug 'haya14busa/vim-asterisk'
