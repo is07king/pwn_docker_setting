@@ -35,10 +35,6 @@ call plug#end()
 
 "--------------------------------------------- vim 기본 설정
 
-" color setting
-colorscheme dracula
-let g:dracula_colorterm = 0
-
 let mapleader=","
 " line number
 set number relativenumber
