@@ -1,21 +1,8 @@
-# USEFUL TOOLS!!
+# pwn_docker_setting_user_env
 
-### *install the following lists at once*
-
-- [GDB](#gdb)
+### install the following lists at once
 - [Ubuntu](#ubuntu)
 
-
-
-## GDB
-
-
-- gdb gef
-- gdb peda
-- gdb pwndbg
-
 ## Ubuntu
-
 - zsh
 - nvim
-- [docker-pwn](https://hub.docker.com/repository/docker/h1ghl1kh7/pwn/general)
